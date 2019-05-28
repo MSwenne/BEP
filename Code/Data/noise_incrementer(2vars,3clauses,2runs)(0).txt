@@ -1,0 +1,176 @@
+Grover with incrementer:
+  nr. of variables: 2
+  nr. of clauses: 3
+  solutions: ['11']
+  amount of runs: 2
+(0)
+#########
+  data with noise
+    11: [99.63, 99.66]
+#########
+
+Grover with incrementer:
+  nr. of variables: 2
+  nr. of clauses: 3
+  solutions: ['11']
+  amount of runs: 2
+(0)
+#########
+  data with noise
+    11: [99.97, 99.97]
+#########
+
+Grover with incrementer:
+  nr. of variables: 2
+  nr. of clauses: 3
+  solutions: ['11']
+  amount of runs: 2
+(0)
+#########
+  data with noise
+    11: [99.99, 99.98]
+#########
+
+Grover with incrementer:
+  nr. of variables: 2
+  nr. of clauses: 3
+  solutions: ['11']
+  amount of runs: 2
+(0)
+#########
+  data with noise
+    11: [100.0, 100.0]
+#########
+
+Grover with incrementer:
+  nr. of variables: 2
+  nr. of clauses: 3
+  solutions: ['11']
+  amount of runs: 2
+(0)
+#########
+  data with noise
+    11: [100.0, 100.0]
+#########
+
+Grover with incrementer:
+  nr. of variables: 2
+  nr. of clauses: 3
+  solutions: ['11']
+  amount of runs: 2
+(0)
+#########
+  data with noise
+    11: [25.18, 81.19]
+#########
+
+Grover with incrementer:
+  nr. of variables: 2
+  nr. of clauses: 3
+  solutions: ['11']
+  amount of runs: 2
+(0)
+#########
+  data with noise
+    11: [25.7, 25.17]
+#########
+
+Grover with incrementer:
+  nr. of variables: 2
+  nr. of clauses: 3
+  solutions: ['11']
+  amount of runs: 2
+(0)
+#########
+  data with noise
+    11: [24.73, 24.49]
+#########
+
+Grover with incrementer:
+  nr. of variables: 2
+  nr. of clauses: 3
+  solutions: ['11']
+  amount of runs: 2
+(0)
+#########
+  data with noise
+    11: [99.99, 99.99]
+#########
+
+Grover with incrementer:
+  nr. of variables: 2
+  nr. of clauses: 3
+  solutions: ['11']
+  amount of runs: 2
+(0)
+#########
+  data with noise
+    11: [99.96, 82.46]
+#########
+
+Grover with incrementer:
+  nr. of variables: 2
+  nr. of clauses: 3
+  solutions: ['11']
+  amount of runs: 2
+(0)
+#########
+  data with noise
+    11: [87.16, 19.98]
+#########
+
+Grover with incrementer:
+  nr. of variables: 2
+  nr. of clauses: 3
+  solutions: ['11']
+  amount of runs: 2
+(0)
+#########
+  data with noise
+    11: [86.21, 19.02]
+#########
+
+Grover with incrementer:
+  nr. of variables: 2
+  nr. of clauses: 3
+  solutions: ['11']
+  amount of runs: 2
+(0)
+#########
+  data with noise
+    11: [86.91, 19.47]
+#########
+
+Grover with incrementer:
+  nr. of variables: 2
+  nr. of clauses: 3
+  solutions: ['11']
+  amount of runs: 2
+(0)
+#########
+  data with noise
+    11: [86.6, 18.7]
+#########
+
+Grover with incrementer:
+  nr. of variables: 2
+  nr. of clauses: 3
+  solutions: ['11']
+  amount of runs: 2
+(0)
+#########
+  data with noise
+    11: [86.07, 19.34]
+#########
+
+Grover with incrementer:
+  nr. of variables: 2
+  nr. of clauses: 3
+  solutions: ['11']
+  amount of runs: 2
+(0)
+#########
+  data with noise
+    11: [87.31, 19.33]
+#########
+

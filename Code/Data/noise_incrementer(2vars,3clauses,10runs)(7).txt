@@ -1,0 +1,44 @@
+Grover with incrementer:
+  nr. of variables: 2
+  nr. of clauses: 3
+  solutions: ['11']
+  amount of runs: 10
+(7)
+#########
+  data with noise
+    11: [100.0, 100.0, 100.0, 99.0, 100.0, 100.0, 99.0, 98.0, 94.0, 19.0]
+#########
+
+Grover with incrementer:
+  nr. of variables: 2
+  nr. of clauses: 3
+  solutions: ['11']
+  amount of runs: 10
+(7)
+#########
+  data with noise
+    11: [100.0, 100.0, 99.0, 99.0, 98.0, 99.0, 98.0, 98.0, 96.0, 17.0]
+#########
+
+Grover with incrementer:
+  nr. of variables: 2
+  nr. of clauses: 3
+  solutions: ['11']
+  amount of runs: 10
+(7)
+#########
+  data with noise
+    11: [100.0, 100.0, 100.0, 100.0, 100.0, 100.0, 98.0, 98.0, 96.0, 27.0]
+#########
+
+Grover with incrementer:
+  nr. of variables: 2
+  nr. of clauses: 3
+  solutions: ['11']
+  amount of runs: 10
+(7)
+#########
+  data with noise
+    11: [99.0, 100.0, 99.0, 100.0, 99.0, 100.0, 98.0, 98.0, 99.0, 23.0]
+#########
+

@@ -1,0 +1,15 @@
+Poster voor Bachelorklas Informatica (Universiteit Leiden)
+voorjaar 2018
+
+Vijf files:
+baposter.cls       LaTeX class file voor poster
+foto.jpg           voorbeeldplaatje
+poster2018.tex     de poster zelf
+leidenland.pdf     logo Universiteit Leiden
+README             deze file
+
+De poster wordt gemaakt met 
+   pdflatex poster2018.tex
+
+www.liacs.leidenuniv.nl/~kosterswa/bach/poster2018.tgz
+

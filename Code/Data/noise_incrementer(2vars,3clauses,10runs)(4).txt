@@ -1,0 +1,22 @@
+Grover with incrementer:
+  nr. of variables: 2
+  nr. of clauses: 3
+  solutions: ['11']
+  amount of runs: 10
+(4)
+#########
+  data with noise
+    11: [91.0, 90.0, 90.0, 91.0, 84.0, 88.0, 83.0, 75.0, 56.0, 22.0]
+#########
+
+Grover with incrementer:
+  nr. of variables: 2
+  nr. of clauses: 3
+  solutions: ['11']
+  amount of runs: 10
+(4)
+#########
+  data with noise
+    11: [96.0, 93.0, 83.0, 84.0, 92.0, 81.0, 77.0, 80.0, 58.0, 15.0]
+#########
+
