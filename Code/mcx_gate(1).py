@@ -8,6 +8,12 @@ def mcx(qc, q, index, tgt):
 		qc.cx(q[index[0]], q[tgt])
 	elif len(index) == 2:
 		qc.ccx(q[index[0]], q[index[1]], q[tgt])
+	elif len(index) == 3:
+		qc.c3x(q[index[0]], q[index[1]], q[index[2]], q[tgt])	
+	elif len(index) == 4:
+		qc.c4x(q[index[0]], q[index[1]], q[index[2]], q[index[3]], q[tgt])	
+	elif len(index) == 5:
+		qc.c5x(q[index[0]], q[index[1]], q[index[2]], q[index[3]], q[index[4]], q[tgt])	
 	else:
 		qc.barrier()
 		qc.h(q[tgt])
