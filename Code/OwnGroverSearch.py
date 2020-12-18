@@ -20,15 +20,17 @@ def main():
 	n, clauses, _shots, oracle, index, oracle_option, iterations = get_input()
 	if oracle_option == 0:
 		a = 0
-	if oracle_option == 1:
+	elif oracle_option == 1:
 		a = math.floor(math.log(clauses,2)+1)
-	if oracle_option == 2:
+	elif oracle_option == 2:
 		a = 1
 		theta = math.pi/clauses
 		delta = pow(2,-0.5*pow(n,2))/4
 		_lambda = pow(math.sin(theta),2)/4+pow(1/2-math.cos(theta)/2,2)
 		L = int(math.ceil(2*math.log(2/delta)/math.sqrt(_lambda)))
 		print("fpaa iterations:", L-1)
+	else:
+		exit(-1)
 
 	## Too much qubits needed for operation (max qubits for simulator is 24)
 	if (n+1) + a > 24:
